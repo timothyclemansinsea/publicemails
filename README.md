@@ -20,3 +20,4 @@ Lets make a JSON database table with the fields:
 Another one with withholding/redaction rules
 * action_type withhold/redaction
 * regex
+* is_regex_public If I make a regex for a secret person then I don't want that person's name exposed
