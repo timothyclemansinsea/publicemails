@@ -5,6 +5,7 @@ I responded "First step is getting a copy of emails. When I did this for myself 
 My thought is to demo this with my own emails.
 
 Lets make a JSON database table with the fields:
+* datetime
 * to
 * to_domains
 * from
