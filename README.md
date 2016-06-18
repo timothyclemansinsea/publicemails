@@ -4,6 +4,8 @@ I responded "First step is getting a copy of emails. When I did this for myself 
 
 My thought is to demo this with my own emails.
 
+## Database
+
 Lets make a JSON database table with the fields:
 * link_to_native_format_file
 * datetime
@@ -22,3 +24,11 @@ Another one with withholding/redaction rules
 * action_type withhold/redaction
 * regex
 * is_regex_public If I make a regex for a secret person then I don't want that person's name exposed
+
+## Website 
+
+### Layout
+
+PublicEmails.org: Informing the Public
+
+Email is the primary communications method for government employees. PublicEmails.org seeks to make it easy for public agencies to be truely transparent while eliminating the burden of public records requests.
