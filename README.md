@@ -29,6 +29,6 @@ Another one with withholding/redaction rules
 
 ### Layout
 
-PublicEmails.org: Informing the Public
+PublicEmails.org: Fostering public control of government
 
 Email is the primary communications method for government employees. PublicEmails.org seeks to make it easy for public agencies to be truely transparent while eliminating the burden of public records requests.
