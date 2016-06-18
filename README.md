@@ -4,16 +4,16 @@ I responded "First step is getting a copy of emails. When I did this for myself 
 
 My thought is to demo this with my own emails.
 
-Lets make a database with the fields:
-to
-from
-cc
-bcc
-subject
-content
-attachment_file_names
-exemption_log
+Lets make a JSON database table with the fields:
+* to
+* from
+* cc
+* bcc
+* subject
+* content
+* attachment_file_names
+* exemption_log
 
 Another one with withholding/redaction rules
-action_type
+action_type withhold/redaction
 regex
