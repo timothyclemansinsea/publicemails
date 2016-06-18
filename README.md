@@ -6,7 +6,9 @@ My thought is to demo this with my own emails.
 
 Lets make a JSON database table with the fields:
 * to
+* to_domains
 * from
+* from_domain
 * cc
 * bcc
 * subject
