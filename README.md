@@ -31,4 +31,7 @@ Another one with withholding/redaction rules
 
 PublicEmails.org: Fostering public control of government
 
-Email is the primary communications method for government employees. PublicEmails.org seeks to make it easy for public agencies to be truely transparent while eliminating the burden of public records requests.
+Washington State's Public Records Act says
+"The people of this state do not yield their sovereignty to the agencies that serve them. The people, in delegating authority, do not give their public servants the right to decide what is good for the people to know and what is not good for them to know. The people insist on remaining informed so that they may maintain control over the instruments that they have created. This chapter shall be liberally construed and its exemptions narrowly construed to promote this public policy and to assure that the public interest will be fully protected. In the event of conflict between the provisions of this chapter and any other act, the provisions of this chapter shall govern."
+
+Email is the primary way government employees communicate in a recorded fashion. PublicEmails.org seeks to make it easy for public agencies to be truely transparent while eliminating the burden of public records requests. For government agencies this will encourage employees to be more careful about what they say in email. For citizens they'll be able to see the hard important work government employees are doing.
