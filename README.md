@@ -15,5 +15,5 @@ Lets make a JSON database table with the fields:
 * exemption_log
 
 Another one with withholding/redaction rules
-action_type withhold/redaction
-regex
+* action_type withhold/redaction
+* regex
