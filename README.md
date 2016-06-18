@@ -5,6 +5,7 @@ I responded "First step is getting a copy of emails. When I did this for myself 
 My thought is to demo this with my own emails.
 
 Lets make a JSON database table with the fields:
+* link_to_native_format_file
 * datetime
 * to
 * to_domains
@@ -14,7 +15,7 @@ Lets make a JSON database table with the fields:
 * bcc
 * subject
 * content
-* attachment_file_names
+* attachments [{'name': ______________}, {'exemption_log': _____________}, {'url': ________}]
 * exemption_log
 
 Another one with withholding/redaction rules
